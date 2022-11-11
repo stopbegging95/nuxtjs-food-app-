@@ -1,0 +1,54 @@
+// notice this API is save here for future purpose, it was use pull from AWS data base of Sarah Drasner for tutorial use
+// and it been connected also to the plugin folder  plugins: [`~/plugins/getfood.server.js`], and also nuxt.config.js
+
+[16: 40: 06
+  {
+    menu: [
+      [Object],
+      [Object],
+      [Object]
+    ],
+    meal: [
+      'Breakfast',
+      'Dinner',
+      'Lunch'
+    ],
+    rating: 4.9,
+    deliveryTime: 35,
+    freeDelivery: true,
+    id: '1f9500d2-fd27-422e-acc6-48198d0de5c2',
+    name: 'All that and Dim Sum'
+  },
+  {
+    menu: [
+      [Object],
+      [Object],
+      [Object]
+    ],
+    meal: [
+      'Dinner',
+      'Lunch'
+    ],
+    rating: 4.5,
+    deliveryTime: 40,
+    freeDelivery: false,
+    id: 'e1e569e5-7b75-42cf-8fc3-7638d6c940f8',
+    name: 'A Real Pizza Work'
+  },
+  {
+    menu: [
+      [Object],
+      [Object],
+      [Object]
+    ],
+    meal: [
+      'Dinner',
+      'Lunch'
+    ],
+    rating: 4.7,
+    deliveryTime: 25,
+    freeDelivery: true,
+    id: 'f71400ed-26b1-43d0-940c-7cabd3546dc6',
+    name: 'Taco bout Eating Tacos'
+  }
+]
